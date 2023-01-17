@@ -1,0 +1,1126 @@
+[
+  {
+    "id": "aax",
+    "name": "AAX"
+  },
+  {
+    "id": "aax_futures",
+    "name": "AAX Futures"
+  },
+  {
+    "id": "abcc",
+    "name": "ABCC"
+  },
+  {
+    "id": "acdx",
+    "name": "ACDX"
+  },
+  {
+    "id": "ace",
+    "name": "Ace"
+  },
+  {
+    "id": "alpha_five",
+    "name": "Alpha5"
+  },
+  {
+    "id": "altcointrader",
+    "name": "AltcoinTrader"
+  },
+  {
+    "id": "alterdice",
+    "name": "AlterDice"
+  },
+  {
+    "id": "altmarkets",
+    "name": "Altmarkets"
+  },
+  {
+    "id": "aprobit",
+    "name": "Aprobit"
+  },
+  {
+    "id": "azbit",
+    "name": "Azbit"
+  },
+  {
+    "id": "b2bx",
+    "name": "B2BX"
+  },
+  {
+    "id": "bakkt",
+    "name": "Bakkt"
+  },
+  {
+    "id": "basefex",
+    "name": "BaseFEX"
+  },
+  {
+    "id": "beaxy",
+    "name": "Beaxy"
+  },
+  {
+    "id": "bgogo",
+    "name": "Bgogo"
+  },
+  {
+    "id": "bibox",
+    "name": "Bibox"
+  },
+  {
+    "id": "bibox_futures",
+    "name": "Bibox (Futures)"
+  },
+  {
+    "id": "biconomy",
+    "name": "Biconomy"
+  },
+  {
+    "id": "bigone",
+    "name": "BigONE"
+  },
+  {
+    "id": "bigone_futures",
+    "name": "BigONE Futures"
+  },
+  {
+    "id": "bilaxy",
+    "name": "Bilaxy"
+  },
+  {
+    "id": "binance",
+    "name": "Binance"
+  },
+  {
+    "id": "binance_futures",
+    "name": "Binance (Futures)"
+  },
+  {
+    "id": "binance_us",
+    "name": "Binance US"
+  },
+  {
+    "id": "bingx",
+    "name": "BingX"
+  },
+  {
+    "id": "bingx_futures",
+    "name": "BingX (Futures)"
+  },
+  {
+    "id": "bione",
+    "name": "BiONE"
+  },
+  {
+    "id": "birake",
+    "name": "Birake"
+  },
+  {
+    "id": "bit2c",
+    "name": "Bit2c"
+  },
+  {
+    "id": "bitazza",
+    "name": "Bitazza"
+  },
+  {
+    "id": "bitbank",
+    "name": "Bitbank"
+  },
+  {
+    "id": "bitbay",
+    "name": "Zonda"
+  },
+  {
+    "id": "bitbegin",
+    "name": "Bitbegin"
+  },
+  {
+    "id": "bitbns",
+    "name": "BitBNS"
+  },
+  {
+    "id": "bitbox",
+    "name": "BITFRONT"
+  },
+  {
+    "id": "bitbuy",
+    "name": "Bitbuy"
+  },
+  {
+    "id": "bitci",
+    "name": "Bitci"
+  },
+  {
+    "id": "bitcoin_com",
+    "name": "FMFW.io"
+  },
+  {
+    "id": "bit_com",
+    "name": "BIT"
+  },
+  {
+    "id": "bit_com_futures",
+    "name": "BIT (Futures)"
+  },
+  {
+    "id": "bitexbook",
+    "name": "BITEXBOOK"
+  },
+  {
+    "id": "bitexen",
+    "name": "Bitexen"
+  },
+  {
+    "id": "bitexlive",
+    "name": "Bitexlive"
+  },
+  {
+    "id": "bitfex",
+    "name": "Bitfex"
+  },
+  {
+    "id": "bitfinex",
+    "name": "Bitfinex"
+  },
+  {
+    "id": "bitfinex_futures",
+    "name": "Bitfinex (Futures)"
+  },
+  {
+    "id": "bitflyer",
+    "name": "bitFlyer"
+  },
+  {
+    "id": "bitflyer_futures",
+    "name": "Bitflyer (Futures)"
+  },
+  {
+    "id": "bitforex",
+    "name": "Bitforex"
+  },
+  {
+    "id": "bitforex_futures",
+    "name": "Bitforex (Futures)"
+  },
+  {
+    "id": "bitget",
+    "name": "Bitget"
+  },
+  {
+    "id": "bitget_futures",
+    "name": "Bitget Futures"
+  },
+  {
+    "id": "bithash",
+    "name": "BitHash"
+  },
+  {
+    "id": "bithumb",
+    "name": "Bithumb"
+  },
+  {
+    "id": "bithumb_futures",
+    "name": "Bithumb (Futures)"
+  },
+  {
+    "id": "bithumb_global",
+    "name": "BitGlobal"
+  },
+  {
+    "id": "bitinka",
+    "name": "Bitinka.com"
+  },
+  {
+    "id": "bitkonan",
+    "name": "BitKonan"
+  },
+  {
+    "id": "bitkub",
+    "name": "Bitkub"
+  },
+  {
+    "id": "bitlo",
+    "name": "Bitlo"
+  },
+  {
+    "id": "bitmart",
+    "name": "BitMart"
+  },
+  {
+    "id": "bitmart_futures",
+    "name": "Bitmart Futures"
+  },
+  {
+    "id": "bitmax",
+    "name": "AscendEX (BitMax)"
+  },
+  {
+    "id": "bitmax_futures",
+    "name": "AscendEX  (BitMax) (Futures)"
+  },
+  {
+    "id": "bitmex",
+    "name": "BitMEX (Derivative)"
+  },
+  {
+    "id": "bitmex_spot",
+    "name": "BitMEX"
+  },
+  {
+    "id": "bitoffer",
+    "name": "Bitoffer"
+  },
+  {
+    "id": "bitonbay",
+    "name": "BitOnBay"
+  },
+  {
+    "id": "bitopro",
+    "name": "BitoPro"
+  },
+  {
+    "id": "bitpanda",
+    "name": "Bitpanda Pro"
+  },
+  {
+    "id": "bitrue",
+    "name": "Bitrue"
+  },
+  {
+    "id": "bitrue_futures",
+    "name": "Bitrue (Futures)"
+  },
+  {
+    "id": "bitso",
+    "name": "Bitso"
+  },
+  {
+    "id": "bitstamp",
+    "name": "Bitstamp"
+  },
+  {
+    "id": "bitsten",
+    "name": "Bitsten"
+  },
+  {
+    "id": "bitstorage",
+    "name": "BitStorage"
+  },
+  {
+    "id": "bittrex",
+    "name": "Bittrex"
+  },
+  {
+    "id": "bitubu",
+    "name": "Bitubu Exchange"
+  },
+  {
+    "id": "bitvavo",
+    "name": "Bitvavo"
+  },
+  {
+    "id": "bitz_futures",
+    "name": "BitZ (Futures)"
+  },
+  {
+    "id": "bkex",
+    "name": "BKEX"
+  },
+  {
+    "id": "blockchain_com",
+    "name": "Blockchain.com"
+  },
+  {
+    "id": "btc_alpha",
+    "name": "BTC-Alpha"
+  },
+  {
+    "id": "btcbox",
+    "name": "BTCBOX"
+  },
+  {
+    "id": "btcc",
+    "name": "BTCC"
+  },
+  {
+    "id": "btcc_futures",
+    "name": "BTCC Futures"
+  },
+  {
+    "id": "btcex",
+    "name": "BTCEX"
+  },
+  {
+    "id": "btcex_futures",
+    "name": "BTCEX (Futures)"
+  },
+  {
+    "id": "btcmarkets",
+    "name": "BTCMarkets"
+  },
+  {
+    "id": "btcmex",
+    "name": "BTCMEX"
+  },
+  {
+    "id": "btcsquare",
+    "name": "BTCSquare"
+  },
+  {
+    "id": "btc_trade_ua",
+    "name": "BTC Trade UA"
+  },
+  {
+    "id": "btcturk",
+    "name": "BtcTurk PRO"
+  },
+  {
+    "id": "btse",
+    "name": "BTSE"
+  },
+  {
+    "id": "btse_futures",
+    "name": "BTSE (Futures)"
+  },
+  {
+    "id": "bullish_com",
+    "name": "Bullish"
+  },
+  {
+    "id": "buyucoin",
+    "name": "BuyUcoin"
+  },
+  {
+    "id": "bw",
+    "name": "BW.com"
+  },
+  {
+    "id": "bybit",
+    "name": "Bybit (Futures)"
+  },
+  {
+    "id": "bybit_spot",
+    "name": "Bybit"
+  },
+  {
+    "id": "catex",
+    "name": "Catex"
+  },
+  {
+    "id": "cbx",
+    "name": "CBX"
+  },
+  {
+    "id": "ccex",
+    "name": "C-CEX"
+  },
+  {
+    "id": "cex",
+    "name": "CEX.IO"
+  },
+  {
+    "id": "chainex",
+    "name": "ChainEX"
+  },
+  {
+    "id": "changelly",
+    "name": "Changelly PRO"
+  },
+  {
+    "id": "chiliz",
+    "name": "ChilizX"
+  },
+  {
+    "id": "citex",
+    "name": "CITEX"
+  },
+  {
+    "id": "cme_futures",
+    "name": "CME Group"
+  },
+  {
+    "id": "coinbene",
+    "name": "CoinBene"
+  },
+  {
+    "id": "coincheck",
+    "name": "Coincheck"
+  },
+  {
+    "id": "coindcx",
+    "name": "CoinDCX"
+  },
+  {
+    "id": "coindeal",
+    "name": "Coindeal"
+  },
+  {
+    "id": "coin_egg",
+    "name": "CoinEgg"
+  },
+  {
+    "id": "coinex",
+    "name": "CoinEx"
+  },
+  {
+    "id": "coinex_futures",
+    "name": "CoinEx (Futures)"
+  },
+  {
+    "id": "coinfalcon",
+    "name": "Coinfalcon"
+  },
+  {
+    "id": "coinfield",
+    "name": "Coinfield"
+  },
+  {
+    "id": "coinflex",
+    "name": "CoinFLEX"
+  },
+  {
+    "id": "coinflex_futures",
+    "name": "CoinFLEX (Futures)"
+  },
+  {
+    "id": "coingi",
+    "name": "Coingi"
+  },
+  {
+    "id": "coinjar",
+    "name": "CoinJar Exchange"
+  },
+  {
+    "id": "coinlist",
+    "name": "Coinlist"
+  },
+  {
+    "id": "coinmargin",
+    "name": "CoinMargin"
+  },
+  {
+    "id": "coin_metro",
+    "name": "Coinmetro"
+  },
+  {
+    "id": "coinone",
+    "name": "Coinone"
+  },
+  {
+    "id": "coinsbit",
+    "name": "Coinsbit"
+  },
+  {
+    "id": "coinspro",
+    "name": "Coins.ph"
+  },
+  {
+    "id": "coinstore",
+    "name": "Coinstore"
+  },
+  {
+    "id": "cointiger",
+    "name": "CoinTiger"
+  },
+  {
+    "id": "cointiger_futures",
+    "name": "CoinTiger (Futures)"
+  },
+  {
+    "id": "cointr",
+    "name": "CoinTR Pro"
+  },
+  {
+    "id": "coinzix",
+    "name": "Coinzix"
+  },
+  {
+    "id": "coinzoom",
+    "name": "Coinzoom"
+  },
+  {
+    "id": "c_patex",
+    "name": "C-Patex"
+  },
+  {
+    "id": "crex24",
+    "name": "CREX24"
+  },
+  {
+    "id": "crypto_com",
+    "name": "Crypto.com Exchange"
+  },
+  {
+    "id": "crypto_com_futures",
+    "name": "Crypto.com Exchange (Futures)"
+  },
+  {
+    "id": "cryptology",
+    "name": "Cryptology"
+  },
+  {
+    "id": "c_trade",
+    "name": "C-Trade"
+  },
+  {
+    "id": "currency",
+    "name": "Currency.com"
+  },
+  {
+    "id": "dcoin",
+    "name": "Dcoin"
+  },
+  {
+    "id": "decoin",
+    "name": "Decoin"
+  },
+  {
+    "id": "deepcoin",
+    "name": "Deepcoin"
+  },
+  {
+    "id": "deepcoin_derivatives",
+    "name": "Deepcoin (Derivatives)"
+  },
+  {
+    "id": "delta_futures",
+    "name": "Delta Exchange (Futures)"
+  },
+  {
+    "id": "delta_spot",
+    "name": "Delta Exchange"
+  },
+  {
+    "id": "deribit",
+    "name": "Deribit"
+  },
+  {
+    "id": "dextrade",
+    "name": "Dex-Trade"
+  },
+  {
+    "id": "digifinex",
+    "name": "DigiFinex"
+  },
+  {
+    "id": "dove_wallet",
+    "name": "BTX"
+  },
+  {
+    "id": "duedex",
+    "name": "DueDEX"
+  },
+  {
+    "id": "emirex",
+    "name": "Emirex"
+  },
+  {
+    "id": "equos",
+    "name": "EQONEX"
+  },
+  {
+    "id": "equos_perpetual",
+    "name": "EQONEX (Perpetual)"
+  },
+  {
+    "id": "exmarkets",
+    "name": "ExMarkets"
+  },
+  {
+    "id": "exmo",
+    "name": "EXMO"
+  },
+  {
+    "id": "fameex",
+    "name": "Fameex"
+  },
+  {
+    "id": "fatbtc",
+    "name": "FatBTC"
+  },
+  {
+    "id": "finexbox",
+    "name": "FinexBox"
+  },
+  {
+    "id": "flybit",
+    "name": "Flybit"
+  },
+  {
+    "id": "foxbit",
+    "name": "Foxbit"
+  },
+  {
+    "id": "freiexchange",
+    "name": "Freiexchange"
+  },
+  {
+    "id": "gate",
+    "name": "Gate.io"
+  },
+  {
+    "id": "gate_futures",
+    "name": "Gate.io (Futures)"
+  },
+  {
+    "id": "gdac",
+    "name": "GDAC"
+  },
+  {
+    "id": "gdax",
+    "name": "Coinbase Exchange"
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini"
+  },
+  {
+    "id": "globe_exchange",
+    "name": "Globe"
+  },
+  {
+    "id": "globe_exchange_derivatives",
+    "name": "Globe (Derivatives)"
+  },
+  {
+    "id": "gmo_japan",
+    "name": "GMO Japan"
+  },
+  {
+    "id": "gmo_japan_futures",
+    "name": "GMO Japan (Futures)"
+  },
+  {
+    "id": "goku",
+    "name": "GokuMarket"
+  },
+  {
+    "id": "gopax",
+    "name": "GoPax"
+  },
+  {
+    "id": "graviex",
+    "name": "Graviex"
+  },
+  {
+    "id": "hanbitco",
+    "name": "Hanbitco"
+  },
+  {
+    "id": "hbtc_futures",
+    "name": "BHEX (Futures)"
+  },
+  {
+    "id": "hitbtc",
+    "name": "HitBTC"
+  },
+  {
+    "id": "hitbtc_derivatives",
+    "name": "HitBTC (Derivatives)"
+  },
+  {
+    "id": "hoo",
+    "name": "Hoo.com"
+  },
+  {
+    "id": "hopex",
+    "name": "Hopex"
+  },
+  {
+    "id": "hotbit",
+    "name": "Hotbit"
+  },
+  {
+    "id": "huobi",
+    "name": "Huobi"
+  },
+  {
+    "id": "huobi_dm",
+    "name": "Huobi Futures"
+  },
+  {
+    "id": "huobi_japan",
+    "name": "Huobi Japan"
+  },
+  {
+    "id": "huobi_korea",
+    "name": "Huobi Korea"
+  },
+  {
+    "id": "independent_reserve",
+    "name": "Independent Reserve"
+  },
+  {
+    "id": "indodax",
+    "name": "Indodax"
+  },
+  {
+    "id": "itbit",
+    "name": "itBit"
+  },
+  {
+    "id": "jex_futures",
+    "name": "Binance JEX (Futures)"
+  },
+  {
+    "id": "kanga",
+    "name": "Kanga"
+  },
+  {
+    "id": "kickex",
+    "name": "KickEX"
+  },
+  {
+    "id": "klever_exchange",
+    "name": "Klever Exchange"
+  },
+  {
+    "id": "koinbazar",
+    "name": "Koinbazar"
+  },
+  {
+    "id": "korbit",
+    "name": "Korbit"
+  },
+  {
+    "id": "kraken",
+    "name": "Kraken"
+  },
+  {
+    "id": "kraken_futures",
+    "name": "Kraken (Futures)"
+  },
+  {
+    "id": "kucoin",
+    "name": "KuCoin"
+  },
+  {
+    "id": "kumex",
+    "name": "KuCoin Futures"
+  },
+  {
+    "id": "kuna",
+    "name": "Kuna Exchange"
+  },
+  {
+    "id": "latoken",
+    "name": "LATOKEN"
+  },
+  {
+    "id": "lbank",
+    "name": "LBank"
+  },
+  {
+    "id": "lcx",
+    "name": "LCX Exchange"
+  },
+  {
+    "id": "liquid_derivatives",
+    "name": "Liquid Perpetuals"
+  },
+  {
+    "id": "localtrade",
+    "name": "LocalTrade"
+  },
+  {
+    "id": "luno",
+    "name": "Luno"
+  },
+  {
+    "id": "lykke",
+    "name": "Lykke"
+  },
+  {
+    "id": "max_maicoin",
+    "name": "Max Maicoin"
+  },
+  {
+    "id": "mercado_bitcoin",
+    "name": "Mercado Bitcoin"
+  },
+  {
+    "id": "mercatox",
+    "name": "Mercatox"
+  },
+  {
+    "id": "mxc",
+    "name": "MEXC Global"
+  },
+  {
+    "id": "mxc_futures",
+    "name": "MEXC Global (Futures)"
+  },
+  {
+    "id": "mycoinstory",
+    "name": "MCS"
+  },
+  {
+    "id": "namebase",
+    "name": "Namebase"
+  },
+  {
+    "id": "nami_exchange",
+    "name": "Nami.Exchange"
+  },
+  {
+    "id": "narkasa",
+    "name": "Narkasa"
+  },
+  {
+    "id": "negociecoins",
+    "name": "Negociecoins"
+  },
+  {
+    "id": "nice_hash",
+    "name": "NiceHash"
+  },
+  {
+    "id": "nominex",
+    "name": "Nominex"
+  },
+  {
+    "id": "novadax",
+    "name": "NovaDAX"
+  },
+  {
+    "id": "oceanex",
+    "name": "Oceanex"
+  },
+  {
+    "id": "okcoin",
+    "name": "Okcoin"
+  },
+  {
+    "id": "okex",
+    "name": "OKX"
+  },
+  {
+    "id": "okex_swap",
+    "name": "OKX (Futures)"
+  },
+  {
+    "id": "omgfin",
+    "name": "Omgfin"
+  },
+  {
+    "id": "ovex",
+    "name": "Ovex"
+  },
+  {
+    "id": "p2pb2b",
+    "name": "P2B"
+  },
+  {
+    "id": "paribu",
+    "name": "Paribu"
+  },
+  {
+    "id": "paritex",
+    "name": "Paritex"
+  },
+  {
+    "id": "paymium",
+    "name": "Paymium"
+  },
+  {
+    "id": "phemex",
+    "name": "Phemex"
+  },
+  {
+    "id": "phemex_futures",
+    "name": "Phemex (Futures)"
+  },
+  {
+    "id": "pionex",
+    "name": "Pionex"
+  },
+  {
+    "id": "poloniex",
+    "name": "Poloniex"
+  },
+  {
+    "id": "poloniex_futures",
+    "name": "Poloniex Futures"
+  },
+  {
+    "id": "powertrade",
+    "name": "Powertrade"
+  },
+  {
+    "id": "prime_xbt",
+    "name": "Prime XBT"
+  },
+  {
+    "id": "probit",
+    "name": "ProBit Global"
+  },
+  {
+    "id": "probit_kr",
+    "name": "Probit (Korea)"
+  },
+  {
+    "id": "purcow",
+    "name": "Purcow"
+  },
+  {
+    "id": "qtrade",
+    "name": "qTrade"
+  },
+  {
+    "id": "quoine",
+    "name": "Liquid"
+  },
+  {
+    "id": "resfinex",
+    "name": "Resfinex"
+  },
+  {
+    "id": "safe_trade",
+    "name": "SafeTrade"
+  },
+  {
+    "id": "secondbtc",
+    "name": "SecondBTC"
+  },
+  {
+    "id": "sinegy",
+    "name": "SINEGY"
+  },
+  {
+    "id": "south_xchange",
+    "name": "SouthXchange"
+  },
+  {
+    "id": "stake_cube",
+    "name": "StakeCube Exchange"
+  },
+  {
+    "id": "stocks_exchange",
+    "name": "STEX"
+  },
+  {
+    "id": "stormgain",
+    "name": "Stormgain"
+  },
+  {
+    "id": "stormgain_futures",
+    "name": "Stormgain Futures"
+  },
+  {
+    "id": "tdax",
+    "name": "Satang Pro"
+  },
+  {
+    "id": "therocktrading",
+    "name": "TheRockTrading"
+  },
+  {
+    "id": "tidex",
+    "name": "Tidex"
+  },
+  {
+    "id": "tokenize",
+    "name": "Tokenize"
+  },
+  {
+    "id": "tokenomy",
+    "name": "Tokenomy"
+  },
+  {
+    "id": "toko_crypto",
+    "name": "TokoCrypto"
+  },
+  {
+    "id": "tokok",
+    "name": "TOKOK"
+  },
+  {
+    "id": "tokpie",
+    "name": "Tokpie"
+  },
+  {
+    "id": "trade_ogre",
+    "name": "TradeOgre"
+  },
+  {
+    "id": "txbit",
+    "name": "Txbit"
+  },
+  {
+    "id": "unnamed",
+    "name": "Unnamed"
+  },
+  {
+    "id": "upbit",
+    "name": "Upbit"
+  },
+  {
+    "id": "upbit_indonesia",
+    "name": "Upbit Indonesia "
+  },
+  {
+    "id": "velic",
+    "name": "Velic"
+  },
+  {
+    "id": "vindax",
+    "name": "Vindax"
+  },
+  {
+    "id": "wazirx",
+    "name": "WazirX"
+  },
+  {
+    "id": "whitebit",
+    "name": "WhiteBIT"
+  },
+  {
+    "id": "woo_network_futures",
+    "name": "WOO Network (Futures)"
+  },
+  {
+    "id": "wootrade",
+    "name": "WOO Network"
+  },
+  {
+    "id": "xt",
+    "name": "XT.COM"
+  },
+  {
+    "id": "yobit",
+    "name": "YoBit"
+  },
+  {
+    "id": "yunex",
+    "name": "Yunex.io"
+  },
+  {
+    "id": "zaif",
+    "name": "Zaif"
+  },
+  {
+    "id": "zbg",
+    "name": "ZBG"
+  },
+  {
+    "id": "zbg_futures",
+    "name": "ZBG Futures"
+  },
+  {
+    "id": "zbx",
+    "name": "ZBX"
+  },
+  {
+    "id": "zebitex",
+    "name": "Zebitex"
+  },
+  {
+    "id": "zebpay",
+    "name": "ZebPay"
+  },
+  {
+    "id": "zipmex",
+    "name": "Zipmex"
+  }
+]
