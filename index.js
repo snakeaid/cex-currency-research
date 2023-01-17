@@ -20,7 +20,7 @@ const getAllExchanges = async () => {
         allExchanges = response.data;
     });
 
-    fs.writeFileSync("allExchanges.txt", JSON.stringify(allExchanges));
+    fs.writeFileSync("allExchanges.json", JSON.stringify(allExchanges));
 
     return allExchanges;
 };
@@ -49,14 +49,10 @@ const getCentralizedExchanges = async (allExchanges) => {
         });
     }
 
-    fs.writeFileSync("centralizedExchanges.txt", JSON.stringify(centralizedExchanges));
+    fs.writeFileSync("centralizedExchanges.json", JSON.stringify(centralizedExchanges));
 
     return centralizedExchanges;
 };
-
-const getUniswapCurrencies = () => {
-    return JSON.parse(fs.readFileSync("uniswapCurrency.txt", "utf8"));
-}
 
 const getCoingeckoCurrencies = async () => {
     let allCurrencies = [];
@@ -75,16 +71,36 @@ const getCoingeckoCurrencies = async () => {
         allCurrencies = response.data;
     });
 
-    fs.writeFileSync("allCurrencies.txt", JSON.stringify(allCurrencies));
+    fs.writeFileSync("allCurrencies.json", JSON.stringify(allCurrencies));
 
     return allCurrencies;
 };
 
+const mapCurrencies = (coingeckoCurrencies, uniswapCurrencies) => {
+    let currenciesWithIdentifiers = [];
+    for (let i = 0; i < uniswapCurrencies.length; i++) {
+        for (let coingeckoCurrency of coingeckoCurrencies) {
+            if (coingeckoCurrency["platforms"]["ethereum"] === uniswapCurrencies[i]["exchangeCurrencies"][0]["exchangeTicker"].toLowerCase()) {
+                currenciesWithIdentifiers[i] = uniswapCurrencies[i];
+                currenciesWithIdentifiers[i]["coingeckoId"] = coingeckoCurrency["id"];
+            }
+        }
+    }
+
+    fs.writeFileSync("currenciesWithIdentifiers.json",JSON.stringify(currenciesWithIdentifiers));
+    return currenciesWithIdentifiers;
+}
+
 (async function () {
-    //let allExchanges = await getAllExchanges();
-    //let centalizedExchanges = getCentralizedExchanges(allExchanges);
+    // let allExchanges = await getAllExchanges();
+    // let centalizedExchanges = await getCentralizedExchanges(allExchanges);
+    // let coingeckoCurrencies = await getCoingeckoCurrencies();
+    // let uniswapCurrencies = require('./uniswapCurrency.json');
+    // let currenciesWithIdentifiers = mapCurrencies(coingeckoCurrencies, uniswapCurrencies);
 
-    // let allCoingeckoCurrencies = getCoingeckoCurrencies();
-    //console.log(getUniswapCurrencies()[778]["exchangeCurrencies"][0]["exchangeTicker"]);
-
+    let centralizedExchanges = require('./centralizedExchanges.json');
+    let coingeckoCurrencies = require('./allCurrencies.json');
+    let uniswapCurrencies = require('./uniswapCurrency.json');
+    let currenciesWithIdentifiers = mapCurrencies(coingeckoCurrencies, uniswapCurrencies);
+    //console.log(uniswapCurrencies[778]["exchangeCurrencies"][0]["exchangeTicker"]);
 })();
