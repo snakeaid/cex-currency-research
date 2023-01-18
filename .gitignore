@@ -797,3 +797,9 @@
 /node_modules/readable-stream/writable-browser.js
 /node_modules/tar/lib/write-entry.js
 /node_modules/yallist/yallist.js
+/node_modules/linq/LICENSE
+/node_modules/linq/linq.d.ts
+/node_modules/linq/linq.js
+/node_modules/linq/linq.min.js
+/node_modules/linq/package.json
+/node_modules/linq/README.md

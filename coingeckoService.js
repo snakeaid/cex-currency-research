@@ -10,7 +10,7 @@ const getAllExchanges = async () => {
         allExchanges = response.data;
     });
 
-    fs.writeFileSync("allExchanges.json", JSON.stringify(allExchanges));
+    fs.writeFileSync("./outputs/allExchanges.json", JSON.stringify(allExchanges));
     return allExchanges;
 };
 
@@ -23,7 +23,7 @@ const getCentralizedExchanges = async (allExchanges) => {
         });
     }
 
-    fs.writeFileSync("centralizedExchanges.json", JSON.stringify(centralizedExchanges));
+    fs.writeFileSync("./outputs/centralizedExchanges.json", JSON.stringify(centralizedExchanges));
     return centralizedExchanges;
 };
 
@@ -34,7 +34,7 @@ const getCoingeckoCurrencies = async () => {
         allCurrencies = response.data;
     });
 
-    fs.writeFileSync("allCurrencies.json", JSON.stringify(allCurrencies));
+    fs.writeFileSync("./outputs/./outputs/allCurrencies.json", JSON.stringify(allCurrencies));
     return allCurrencies;
 };
 
@@ -66,7 +66,7 @@ const getExchangesWithCurrencies = async (exchanges) => {
         exchangesWithCurrencies.push(exchangeWithCurrencies);
     }
 
-    fs.writeFileSync("exchangesWithCurrencies.json", JSON.stringify(exchangesWithCurrencies));
+    fs.writeFileSync("./outputs/exchangesWithCurrencies.json", JSON.stringify(exchangesWithCurrencies));
     return exchangesWithCurrencies;
 };
 
@@ -78,7 +78,7 @@ const getExchangesWithVolumes = async (exchanges) => {
     }
     let sortedExchanges = exchanges.sort((ex1, ex2) => Math.sign(ex2["volume"] - ex1["volume"]));
 
-    fs.writeFileSync("exchangesWithVolumes.json", JSON.stringify(sortedExchanges));
+    fs.writeFileSync("./outputs/exchangesWithVolumes.json", JSON.stringify(sortedExchanges));
     return sortedExchanges;
 };
 
@@ -103,7 +103,7 @@ const getTradedCurrencies = async (tradedExchanges) => {
 
     tradedCurrencies = tradedCurrencies.filter(onlyUnique).filter(Boolean);
 
-    fs.writeFileSync("tradedCurrencies.json", JSON.stringify(tradedCurrencies))
+    fs.writeFileSync("./outputs/tradedCurrencies.json", JSON.stringify(tradedCurrencies))
     return tradedCurrencies;
 };
 
@@ -118,7 +118,7 @@ const mapCurrencies = (coingeckoCurrencies, uniswapCurrencies) => {
         }
     }
 
-    fs.writeFileSync("currenciesWithIdentifiers.json", JSON.stringify(currenciesWithIdentifiers));
+    fs.writeFileSync("./outputs/currenciesWithIdentifiers.json", JSON.stringify(currenciesWithIdentifiers));
     return currenciesWithIdentifiers;
 };
 
@@ -131,7 +131,7 @@ const filterExchangesByUniswap = (exchangesWithCurrencies, currenciesWithIds) =>
         exchange["tokensNumber"] = exchange["tokensList"].length;
     }
 
-    fs.writeFileSync("filteredExchangesByUniswap.json", JSON.stringify(filteredExchanges));
+    fs.writeFileSync("./outputs/filteredExchangesByUniswap.json", JSON.stringify(filteredExchanges));
     return filteredExchanges;
 };
 
@@ -145,7 +145,7 @@ const filterExchangesByTraded = (exchanges, tradedCurrencies) => {
 
     filteredExchanges = filteredExchanges.sort((ex1, ex2) => Math.sign(ex2["tokensNumber"] - ex1["tokensNumber"]));
 
-    fs.writeFileSync("filteredExchangesByTraded.json", JSON.stringify(filteredExchanges));
+    fs.writeFileSync("./outputs/filteredExchangesByTraded.json", JSON.stringify(filteredExchanges));
     return filteredExchanges;
 };
 
