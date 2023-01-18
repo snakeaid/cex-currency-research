@@ -1,0 +1,1407 @@
+[
+  {
+    "id": "binance",
+    "name": "Binance",
+    "volume": 389246.5811139515
+  },
+  {
+    "id": "gdax",
+    "name": "Coinbase Exchange",
+    "volume": 92198.93847859613
+  },
+  {
+    "id": "lbank",
+    "name": "LBank",
+    "volume": 62353.01254499675
+  },
+  {
+    "id": "mxc",
+    "name": "MEXC Global",
+    "volume": 56502.17026777575
+  },
+  {
+    "id": "okex",
+    "name": "OKX",
+    "volume": 42230.082042684335
+  },
+  {
+    "id": "bitmart",
+    "name": "BitMart",
+    "volume": 40326.57656562985
+  },
+  {
+    "id": "bkex",
+    "name": "BKEX",
+    "volume": 38752.13915395626
+  },
+  {
+    "id": "coinsbit",
+    "name": "Coinsbit",
+    "volume": 37208.4526711805
+  },
+  {
+    "id": "kucoin",
+    "name": "KuCoin",
+    "volume": 32911.33927787597
+  },
+  {
+    "id": "xt",
+    "name": "XT.COM",
+    "volume": 32275.271320153643
+  },
+  {
+    "id": "upbit",
+    "name": "Upbit",
+    "volume": 30295.817335007927
+  },
+  {
+    "id": "bitrue",
+    "name": "Bitrue",
+    "volume": 29931.274593160386
+  },
+  {
+    "id": "kraken",
+    "name": "Kraken",
+    "volume": 27616.243973359757
+  },
+  {
+    "id": "digifinex",
+    "name": "DigiFinex",
+    "volume": 25016.292555320564
+  },
+  {
+    "id": "gate",
+    "name": "Gate.io",
+    "volume": 23963.43160855582
+  },
+  {
+    "id": "bingx",
+    "name": "BingX",
+    "volume": 23889.974410656603
+  },
+  {
+    "id": "bitget",
+    "name": "Bitget",
+    "volume": 22497.32239977126
+  },
+  {
+    "id": "bybit_spot",
+    "name": "Bybit",
+    "volume": 17814.664432832324
+  },
+  {
+    "id": "huobi",
+    "name": "Huobi",
+    "volume": 17695.355454917422
+  },
+  {
+    "id": "whitebit",
+    "name": "WhiteBIT",
+    "volume": 16942.068578244798
+  },
+  {
+    "id": "p2pb2b",
+    "name": "P2B",
+    "volume": 16279.867529659157
+  },
+  {
+    "id": "dcoin",
+    "name": "Dcoin",
+    "volume": 15874.077120491027
+  },
+  {
+    "id": "btcex",
+    "name": "BTCEX",
+    "volume": 15832.72172166953
+  },
+  {
+    "id": "bigone",
+    "name": "BigONE",
+    "volume": 15697.735098998062
+  },
+  {
+    "id": "bitforex",
+    "name": "Bitforex",
+    "volume": 15404.71586262946
+  },
+  {
+    "id": "bithumb",
+    "name": "Bithumb",
+    "volume": 14082.732852866775
+  },
+  {
+    "id": "tidex",
+    "name": "Tidex",
+    "volume": 13941.557234018683
+  },
+  {
+    "id": "binance_us",
+    "name": "Binance US",
+    "volume": 12688.161356146353
+  },
+  {
+    "id": "deepcoin",
+    "name": "Deepcoin",
+    "volume": 12146.323951342625
+  },
+  {
+    "id": "crypto_com",
+    "name": "Crypto.com Exchange",
+    "volume": 11820.143059685148
+  },
+  {
+    "id": "dextrade",
+    "name": "Dex-Trade",
+    "volume": 8599.788514837397
+  },
+  {
+    "id": "azbit",
+    "name": "Azbit",
+    "volume": 8296.023628276489
+  },
+  {
+    "id": "localtrade",
+    "name": "LocalTrade",
+    "volume": 7871.704633039032
+  },
+  {
+    "id": "bitstamp",
+    "name": "Bitstamp",
+    "volume": 7744.3367337446325
+  },
+  {
+    "id": "bibox",
+    "name": "Bibox",
+    "volume": 6956.9499693676935
+  },
+  {
+    "id": "bitfinex",
+    "name": "Bitfinex",
+    "volume": 6209.209543899203
+  },
+  {
+    "id": "probit",
+    "name": "ProBit Global",
+    "volume": 6022.72404024206
+  },
+  {
+    "id": "phemex",
+    "name": "Phemex",
+    "volume": 5956.1632954923225
+  },
+  {
+    "id": "coinstore",
+    "name": "Coinstore",
+    "volume": 5602.375841482558
+  },
+  {
+    "id": "btcturk",
+    "name": "BtcTurk PRO",
+    "volume": 5407.42807409006
+  },
+  {
+    "id": "paribu",
+    "name": "Paribu",
+    "volume": 4886.085134395833
+  },
+  {
+    "id": "latoken",
+    "name": "LATOKEN",
+    "volume": 4618.1127953404375
+  },
+  {
+    "id": "pionex",
+    "name": "Pionex",
+    "volume": 4495.538397279193
+  },
+  {
+    "id": "poloniex",
+    "name": "Poloniex",
+    "volume": 4158.477458098526
+  },
+  {
+    "id": "exmo",
+    "name": "EXMO",
+    "volume": 4103.6247594980505
+  },
+  {
+    "id": "bit_com",
+    "name": "BIT",
+    "volume": 3875.1526109315523
+  },
+  {
+    "id": "yobit",
+    "name": "YoBit",
+    "volume": 3768.2333922448597
+  },
+  {
+    "id": "hotbit",
+    "name": "Hotbit",
+    "volume": 3588.8837562966232
+  },
+  {
+    "id": "bitflyer",
+    "name": "bitFlyer",
+    "volume": 3334.820595800217
+  },
+  {
+    "id": "bitvavo",
+    "name": "Bitvavo",
+    "volume": 3241.7722145326456
+  },
+  {
+    "id": "fameex",
+    "name": "Fameex",
+    "volume": 3096.225436152195
+  },
+  {
+    "id": "coinone",
+    "name": "Coinone",
+    "volume": 3011.5518496685845
+  },
+  {
+    "id": "coindcx",
+    "name": "CoinDCX",
+    "volume": 2836.860817361281
+  },
+  {
+    "id": "hitbtc",
+    "name": "HitBTC",
+    "volume": 2615.456596413358
+  },
+  {
+    "id": "cointr",
+    "name": "CoinTR Pro",
+    "volume": 2316.6697777031663
+  },
+  {
+    "id": "bitcoin_com",
+    "name": "FMFW.io",
+    "volume": 2289.4217870012335
+  },
+  {
+    "id": "bitkub",
+    "name": "Bitkub",
+    "volume": 2181.820692082198
+  },
+  {
+    "id": "coincheck",
+    "name": "Coincheck",
+    "volume": 2149.7585128047604
+  },
+  {
+    "id": "bitmax",
+    "name": "AscendEX (BitMax)",
+    "volume": 1697.4813858364737
+  },
+  {
+    "id": "coinex",
+    "name": "CoinEx",
+    "volume": 1455.2613539383367
+  },
+  {
+    "id": "wootrade",
+    "name": "WOO Network",
+    "volume": 1346.0039630090737
+  },
+  {
+    "id": "bithumb_global",
+    "name": "BitGlobal",
+    "volume": 1330.0703203775784
+  },
+  {
+    "id": "bitso",
+    "name": "Bitso",
+    "volume": 1290.6939677115824
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "volume": 1283.541978085847
+  },
+  {
+    "id": "bitbank",
+    "name": "Bitbank",
+    "volume": 1223.3704315944246
+  },
+  {
+    "id": "cryptology",
+    "name": "Cryptology",
+    "volume": 1195.4208075269078
+  },
+  {
+    "id": "bullish_com",
+    "name": "Bullish",
+    "volume": 1040.350822232702
+  },
+  {
+    "id": "currency",
+    "name": "Currency.com",
+    "volume": 1018.2562430895938
+  },
+  {
+    "id": "bitexen",
+    "name": "Bitexen",
+    "volume": 1005.2812878604972
+  },
+  {
+    "id": "bittrex",
+    "name": "Bittrex",
+    "volume": 909.0237678963016
+  },
+  {
+    "id": "okcoin",
+    "name": "Okcoin",
+    "volume": 840.5286348504296
+  },
+  {
+    "id": "btse",
+    "name": "BTSE",
+    "volume": 839.1186059183083
+  },
+  {
+    "id": "bitpanda",
+    "name": "Bitpanda Pro",
+    "volume": 729.2813614414703
+  },
+  {
+    "id": "omgfin",
+    "name": "Omgfin",
+    "volume": 696.6247030572862
+  },
+  {
+    "id": "gmo_japan",
+    "name": "GMO Japan",
+    "volume": 670.8355670224312
+  },
+  {
+    "id": "catex",
+    "name": "Catex",
+    "volume": 633.7153241329956
+  },
+  {
+    "id": "max_maicoin",
+    "name": "Max Maicoin",
+    "volume": 611.8864233987723
+  },
+  {
+    "id": "bitbns",
+    "name": "BitBNS",
+    "volume": 605.313106667543
+  },
+  {
+    "id": "bitci",
+    "name": "Bitci",
+    "volume": 594.3926651554171
+  },
+  {
+    "id": "independent_reserve",
+    "name": "Independent Reserve",
+    "volume": 578.680664334389
+  },
+  {
+    "id": "toko_crypto",
+    "name": "TokoCrypto",
+    "volume": 562.5248946679517
+  },
+  {
+    "id": "luno",
+    "name": "Luno",
+    "volume": 553.8133707293972
+  },
+  {
+    "id": "indodax",
+    "name": "Indodax",
+    "volume": 548.4145145334576
+  },
+  {
+    "id": "vindax",
+    "name": "Vindax",
+    "volume": 519.9220680760778
+  },
+  {
+    "id": "nominex",
+    "name": "Nominex",
+    "volume": 494.0072408677154
+  },
+  {
+    "id": "tokenize",
+    "name": "Tokenize",
+    "volume": 492.3076685788218
+  },
+  {
+    "id": "kanga",
+    "name": "Kanga",
+    "volume": 457.2522498023928
+  },
+  {
+    "id": "bitazza",
+    "name": "Bitazza",
+    "volume": 438.85427887622944
+  },
+  {
+    "id": "mercatox",
+    "name": "Mercatox",
+    "volume": 419.38516847757046
+  },
+  {
+    "id": "finexbox",
+    "name": "FinexBox",
+    "volume": 399.22754321030163
+  },
+  {
+    "id": "coinzoom",
+    "name": "Coinzoom",
+    "volume": 368.28056789068233
+  },
+  {
+    "id": "tokpie",
+    "name": "Tokpie",
+    "volume": 332.7660064700086
+  },
+  {
+    "id": "stocks_exchange",
+    "name": "STEX",
+    "volume": 310.563409948924
+  },
+  {
+    "id": "bilaxy",
+    "name": "Bilaxy",
+    "volume": 305.1249876952428
+  },
+  {
+    "id": "ace",
+    "name": "Ace",
+    "volume": 300.51013403976873
+  },
+  {
+    "id": "btcmarkets",
+    "name": "BTCMarkets",
+    "volume": 297.89117845479717
+  },
+  {
+    "id": "bitopro",
+    "name": "BitoPro",
+    "volume": 288.894557099695
+  },
+  {
+    "id": "upbit_indonesia",
+    "name": "Upbit Indonesia ",
+    "volume": 288.75631261015405
+  },
+  {
+    "id": "txbit",
+    "name": "Txbit",
+    "volume": 287.58577858087267
+  },
+  {
+    "id": "biconomy",
+    "name": "Biconomy",
+    "volume": 276.4267726253017
+  },
+  {
+    "id": "korbit",
+    "name": "Korbit",
+    "volume": 224.39969301324425
+  },
+  {
+    "id": "btc_alpha",
+    "name": "BTC-Alpha",
+    "volume": 211.6338573960904
+  },
+  {
+    "id": "wazirx",
+    "name": "WazirX",
+    "volume": 192.76891474891093
+  },
+  {
+    "id": "itbit",
+    "name": "itBit",
+    "volume": 164.21968445830794
+  },
+  {
+    "id": "novadax",
+    "name": "NovaDAX",
+    "volume": 152.0624436893218
+  },
+  {
+    "id": "blockchain_com",
+    "name": "Blockchain.com",
+    "volume": 142.28870057798866
+  },
+  {
+    "id": "stormgain",
+    "name": "Stormgain",
+    "volume": 138.8133356957822
+  },
+  {
+    "id": "lcx",
+    "name": "LCX Exchange",
+    "volume": 137.16891157171602
+  },
+  {
+    "id": "bitbay",
+    "name": "Zonda",
+    "volume": 131.57464455506695
+  },
+  {
+    "id": "cex",
+    "name": "CEX.IO",
+    "volume": 125.90559920455117
+  },
+  {
+    "id": "exmarkets",
+    "name": "ExMarkets",
+    "volume": 121.4523637059787
+  },
+  {
+    "id": "kickex",
+    "name": "KickEX",
+    "volume": 117.65167830764032
+  },
+  {
+    "id": "coinjar",
+    "name": "CoinJar Exchange",
+    "volume": 112.9973521289869
+  },
+  {
+    "id": "powertrade",
+    "name": "Powertrade",
+    "volume": 111.74015071114789
+  },
+  {
+    "id": "coinfield",
+    "name": "Coinfield",
+    "volume": 103.1681433358186
+  },
+  {
+    "id": "gopax",
+    "name": "GoPax",
+    "volume": 93.85695544746365
+  },
+  {
+    "id": "c_patex",
+    "name": "C-Patex",
+    "volume": 88.72466101577567
+  },
+  {
+    "id": "huobi_japan",
+    "name": "Huobi Japan",
+    "volume": 76.65738659501014
+  },
+  {
+    "id": "zaif",
+    "name": "Zaif",
+    "volume": 76.12949632380867
+  },
+  {
+    "id": "zebpay",
+    "name": "ZebPay",
+    "volume": 73.98304055413145
+  },
+  {
+    "id": "altcointrader",
+    "name": "AltcoinTrader",
+    "volume": 72.4419756646789
+  },
+  {
+    "id": "changelly",
+    "name": "Changelly PRO",
+    "volume": 70.79215095028088
+  },
+  {
+    "id": "trade_ogre",
+    "name": "TradeOgre",
+    "volume": 69.99200133402616
+  },
+  {
+    "id": "oceanex",
+    "name": "Oceanex",
+    "volume": 67.55279754923556
+  },
+  {
+    "id": "fatbtc",
+    "name": "FatBTC",
+    "volume": 61.32955573956047
+  },
+  {
+    "id": "coinspro",
+    "name": "Coins.ph",
+    "volume": 58.8342041298862
+  },
+  {
+    "id": "zbx",
+    "name": "ZBX",
+    "volume": 56.63605964354676
+  },
+  {
+    "id": "coinzix",
+    "name": "Coinzix",
+    "volume": 54.61691014080026
+  },
+  {
+    "id": "globe_exchange",
+    "name": "Globe",
+    "volume": 52.227264581474245
+  },
+  {
+    "id": "bitlo",
+    "name": "Bitlo",
+    "volume": 46.41723991727324
+  },
+  {
+    "id": "zbg",
+    "name": "ZBG",
+    "volume": 46.19294561057395
+  },
+  {
+    "id": "citex",
+    "name": "CITEX",
+    "volume": 44.72529632598484
+  },
+  {
+    "id": "emirex",
+    "name": "Emirex",
+    "volume": 40.58494394979045
+  },
+  {
+    "id": "kuna",
+    "name": "Kuna Exchange",
+    "volume": 40.337498269011206
+  },
+  {
+    "id": "btcbox",
+    "name": "BTCBOX",
+    "volume": 40.32234847221748
+  },
+  {
+    "id": "abcc",
+    "name": "ABCC",
+    "volume": 38.195527336296294
+  },
+  {
+    "id": "bitmex_spot",
+    "name": "BitMEX",
+    "volume": 36.17198597382227
+  },
+  {
+    "id": "koinbazar",
+    "name": "Koinbazar",
+    "volume": 32.94901879944104
+  },
+  {
+    "id": "zipmex",
+    "name": "Zipmex",
+    "volume": 32.38082082643771
+  },
+  {
+    "id": "coin_metro",
+    "name": "Coinmetro",
+    "volume": 32.34582043401467
+  },
+  {
+    "id": "bitbuy",
+    "name": "Bitbuy",
+    "volume": 26.37602278171253
+  },
+  {
+    "id": "foxbit",
+    "name": "Foxbit",
+    "volume": 24.306486822531987
+  },
+  {
+    "id": "coinlist",
+    "name": "Coinlist",
+    "volume": 22.493673935699928
+  },
+  {
+    "id": "delta_spot",
+    "name": "Delta Exchange",
+    "volume": 18.861886317686945
+  },
+  {
+    "id": "bitexlive",
+    "name": "Bitexlive",
+    "volume": 17.627803937787768
+  },
+  {
+    "id": "narkasa",
+    "name": "Narkasa",
+    "volume": 17.52238849895715
+  },
+  {
+    "id": "huobi_korea",
+    "name": "Huobi Korea",
+    "volume": 17.488327768562606
+  },
+  {
+    "id": "therocktrading",
+    "name": "TheRockTrading",
+    "volume": 16.539226037322738
+  },
+  {
+    "id": "tdax",
+    "name": "Satang Pro",
+    "volume": 14.717423304027173
+  },
+  {
+    "id": "acdx",
+    "name": "ACDX",
+    "volume": 14.272079135012891
+  },
+  {
+    "id": "alterdice",
+    "name": "AlterDice",
+    "volume": 14.267188264531702
+  },
+  {
+    "id": "bione",
+    "name": "BiONE",
+    "volume": 14.208716181480344
+  },
+  {
+    "id": "bitstorage",
+    "name": "BitStorage",
+    "volume": 11.092154154842886
+  },
+  {
+    "id": "nice_hash",
+    "name": "NiceHash",
+    "volume": 9.266747666835917
+  },
+  {
+    "id": "bitsten",
+    "name": "Bitsten",
+    "volume": 8.831471208698991
+  },
+  {
+    "id": "bitonbay",
+    "name": "BitOnBay",
+    "volume": 8.688951541432012
+  },
+  {
+    "id": "paymium",
+    "name": "Paymium",
+    "volume": 6.001370377538313
+  },
+  {
+    "id": "bitinka",
+    "name": "Bitinka.com",
+    "volume": 5.8179722636102635
+  },
+  {
+    "id": "coinmargin",
+    "name": "CoinMargin",
+    "volume": 5.701028097507545
+  },
+  {
+    "id": "bitubu",
+    "name": "Bitubu Exchange",
+    "volume": 5.241489875189387
+  },
+  {
+    "id": "b2bx",
+    "name": "B2BX",
+    "volume": 4.298607338982135
+  },
+  {
+    "id": "bitfex",
+    "name": "Bitfex",
+    "volume": 3.8484794169366783
+  },
+  {
+    "id": "nami_exchange",
+    "name": "Nami.Exchange",
+    "volume": 3.8416158564743155
+  },
+  {
+    "id": "south_xchange",
+    "name": "SouthXchange",
+    "volume": 3.809376788770714
+  },
+  {
+    "id": "klever_exchange",
+    "name": "Klever Exchange",
+    "volume": 3.4037336547823225
+  },
+  {
+    "id": "graviex",
+    "name": "Graviex",
+    "volume": 2.9271568756389454
+  },
+  {
+    "id": "zebitex",
+    "name": "Zebitex",
+    "volume": 2.8285356951725364
+  },
+  {
+    "id": "lykke",
+    "name": "Lykke",
+    "volume": 1.7646057348385185
+  },
+  {
+    "id": "coindeal",
+    "name": "Coindeal",
+    "volume": 1.6997804742026168
+  },
+  {
+    "id": "bitbegin",
+    "name": "Bitbegin",
+    "volume": 1.5845934506918409
+  },
+  {
+    "id": "probit_kr",
+    "name": "Probit (Korea)",
+    "volume": 1.3426100465850916
+  },
+  {
+    "id": "bit2c",
+    "name": "Bit2c",
+    "volume": 0.8782587905707374
+  },
+  {
+    "id": "sinegy",
+    "name": "SINEGY",
+    "volume": 0.8415557321879014
+  },
+  {
+    "id": "birake",
+    "name": "Birake",
+    "volume": 0.8294441259910018
+  },
+  {
+    "id": "chainex",
+    "name": "ChainEX",
+    "volume": 0.7898185892196968
+  },
+  {
+    "id": "bitbox",
+    "name": "BITFRONT",
+    "volume": 0.7613337248878439
+  },
+  {
+    "id": "btc_trade_ua",
+    "name": "BTC Trade UA",
+    "volume": 0.7213913511865317
+  },
+  {
+    "id": "safe_trade",
+    "name": "SafeTrade",
+    "volume": 0.421695335785174
+  },
+  {
+    "id": "coinflex",
+    "name": "CoinFLEX",
+    "volume": 0.3936305541708944
+  },
+  {
+    "id": "aprobit",
+    "name": "Aprobit",
+    "volume": 0.3266611629148605
+  },
+  {
+    "id": "freiexchange",
+    "name": "Freiexchange",
+    "volume": 0.2946911169359061
+  },
+  {
+    "id": "coingi",
+    "name": "Coingi",
+    "volume": 0.2893313487376337
+  },
+  {
+    "id": "btcsquare",
+    "name": "BTCSquare",
+    "volume": 0.2783741199983629
+  },
+  {
+    "id": "secondbtc",
+    "name": "SecondBTC",
+    "volume": 0.2221939155951659
+  },
+  {
+    "id": "purcow",
+    "name": "Purcow",
+    "volume": 0.2163467072900299
+  },
+  {
+    "id": "namebase",
+    "name": "Namebase",
+    "volume": 0.17447411586654
+  },
+  {
+    "id": "bw",
+    "name": "BW.com",
+    "volume": 0.1157076215103535
+  },
+  {
+    "id": "coinfalcon",
+    "name": "Coinfalcon",
+    "volume": 0.0947695854141961
+  },
+  {
+    "id": "bgogo",
+    "name": "Bgogo",
+    "volume": 0.0295915962
+  },
+  {
+    "id": "unnamed",
+    "name": "Unnamed",
+    "volume": 0.0199647813168234
+  },
+  {
+    "id": "buyucoin",
+    "name": "BuyUcoin",
+    "volume": 0.0038169361605394
+  },
+  {
+    "id": "altmarkets",
+    "name": "Altmarkets",
+    "volume": 0.0014397418327602
+  },
+  {
+    "id": "bitexbook",
+    "name": "BITEXBOOK",
+    "volume": 0.0000302876511248
+  },
+  {
+    "id": "aax",
+    "name": "AAX",
+    "volume": 0
+  },
+  {
+    "id": "aax_futures",
+    "name": "AAX Futures",
+    "volume": 0
+  },
+  {
+    "id": "alpha_five",
+    "name": "Alpha5",
+    "volume": 0
+  },
+  {
+    "id": "bakkt",
+    "name": "Bakkt",
+    "volume": 0
+  },
+  {
+    "id": "basefex",
+    "name": "BaseFEX",
+    "volume": 0
+  },
+  {
+    "id": "beaxy",
+    "name": "Beaxy",
+    "volume": 0
+  },
+  {
+    "id": "bibox_futures",
+    "name": "Bibox (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bigone_futures",
+    "name": "BigONE Futures",
+    "volume": 0
+  },
+  {
+    "id": "binance_futures",
+    "name": "Binance (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bingx_futures",
+    "name": "BingX (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bit_com_futures",
+    "name": "BIT (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bitfinex_futures",
+    "name": "Bitfinex (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bitflyer_futures",
+    "name": "Bitflyer (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bitforex_futures",
+    "name": "Bitforex (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bitget_futures",
+    "name": "Bitget Futures",
+    "volume": 0
+  },
+  {
+    "id": "bithash",
+    "name": "BitHash",
+    "volume": 0
+  },
+  {
+    "id": "bithumb_futures",
+    "name": "Bithumb (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bitkonan",
+    "name": "BitKonan",
+    "volume": 0
+  },
+  {
+    "id": "bitmart_futures",
+    "name": "Bitmart Futures",
+    "volume": 0
+  },
+  {
+    "id": "bitmax_futures",
+    "name": "AscendEX  (BitMax) (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bitmex",
+    "name": "BitMEX (Derivative)",
+    "volume": 0
+  },
+  {
+    "id": "bitoffer",
+    "name": "Bitoffer",
+    "volume": 0
+  },
+  {
+    "id": "bitrue_futures",
+    "name": "Bitrue (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bitz_futures",
+    "name": "BitZ (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "btcc",
+    "name": "BTCC",
+    "volume": 0
+  },
+  {
+    "id": "btcc_futures",
+    "name": "BTCC Futures",
+    "volume": 0
+  },
+  {
+    "id": "btcex_futures",
+    "name": "BTCEX (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "btcmex",
+    "name": "BTCMEX",
+    "volume": 0
+  },
+  {
+    "id": "btse_futures",
+    "name": "BTSE (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "bybit",
+    "name": "Bybit (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "cbx",
+    "name": "CBX",
+    "volume": 0
+  },
+  {
+    "id": "ccex",
+    "name": "C-CEX",
+    "volume": 0
+  },
+  {
+    "id": "chiliz",
+    "name": "ChilizX",
+    "volume": 0
+  },
+  {
+    "id": "cme_futures",
+    "name": "CME Group",
+    "volume": 0
+  },
+  {
+    "id": "coinbene",
+    "name": "CoinBene",
+    "volume": 0
+  },
+  {
+    "id": "coin_egg",
+    "name": "CoinEgg",
+    "volume": 0
+  },
+  {
+    "id": "coinex_futures",
+    "name": "CoinEx (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "coinflex_futures",
+    "name": "CoinFLEX (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "cointiger",
+    "name": "CoinTiger",
+    "volume": 0
+  },
+  {
+    "id": "cointiger_futures",
+    "name": "CoinTiger (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "crex24",
+    "name": "CREX24",
+    "volume": 0
+  },
+  {
+    "id": "crypto_com_futures",
+    "name": "Crypto.com Exchange (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "c_trade",
+    "name": "C-Trade",
+    "volume": 0
+  },
+  {
+    "id": "decoin",
+    "name": "Decoin",
+    "volume": 0
+  },
+  {
+    "id": "deepcoin_derivatives",
+    "name": "Deepcoin (Derivatives)",
+    "volume": 0
+  },
+  {
+    "id": "delta_futures",
+    "name": "Delta Exchange (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "deribit",
+    "name": "Deribit",
+    "volume": 0
+  },
+  {
+    "id": "dove_wallet",
+    "name": "BTX",
+    "volume": 0
+  },
+  {
+    "id": "duedex",
+    "name": "DueDEX",
+    "volume": 0
+  },
+  {
+    "id": "equos",
+    "name": "EQONEX",
+    "volume": 0
+  },
+  {
+    "id": "equos_perpetual",
+    "name": "EQONEX (Perpetual)",
+    "volume": 0
+  },
+  {
+    "id": "flybit",
+    "name": "Flybit",
+    "volume": 0
+  },
+  {
+    "id": "gate_futures",
+    "name": "Gate.io (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "gdac",
+    "name": "GDAC",
+    "volume": 0
+  },
+  {
+    "id": "globe_exchange_derivatives",
+    "name": "Globe (Derivatives)",
+    "volume": 0
+  },
+  {
+    "id": "gmo_japan_futures",
+    "name": "GMO Japan (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "goku",
+    "name": "GokuMarket",
+    "volume": 0
+  },
+  {
+    "id": "hanbitco",
+    "name": "Hanbitco",
+    "volume": 0
+  },
+  {
+    "id": "hbtc_futures",
+    "name": "BHEX (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "hitbtc_derivatives",
+    "name": "HitBTC (Derivatives)",
+    "volume": 0
+  },
+  {
+    "id": "hoo",
+    "name": "Hoo.com",
+    "volume": 0
+  },
+  {
+    "id": "hopex",
+    "name": "Hopex",
+    "volume": 0
+  },
+  {
+    "id": "huobi_dm",
+    "name": "Huobi Futures",
+    "volume": 0
+  },
+  {
+    "id": "jex_futures",
+    "name": "Binance JEX (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "kraken_futures",
+    "name": "Kraken (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "kumex",
+    "name": "KuCoin Futures",
+    "volume": 0
+  },
+  {
+    "id": "liquid_derivatives",
+    "name": "Liquid Perpetuals",
+    "volume": 0
+  },
+  {
+    "id": "mercado_bitcoin",
+    "name": "Mercado Bitcoin",
+    "volume": 0
+  },
+  {
+    "id": "mxc_futures",
+    "name": "MEXC Global (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "mycoinstory",
+    "name": "MCS",
+    "volume": 0
+  },
+  {
+    "id": "negociecoins",
+    "name": "Negociecoins",
+    "volume": 0
+  },
+  {
+    "id": "okex_swap",
+    "name": "OKX (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "ovex",
+    "name": "Ovex",
+    "volume": 0
+  },
+  {
+    "id": "paritex",
+    "name": "Paritex",
+    "volume": 0
+  },
+  {
+    "id": "phemex_futures",
+    "name": "Phemex (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "poloniex_futures",
+    "name": "Poloniex Futures",
+    "volume": 0
+  },
+  {
+    "id": "prime_xbt",
+    "name": "Prime XBT",
+    "volume": 0
+  },
+  {
+    "id": "qtrade",
+    "name": "qTrade",
+    "volume": 0
+  },
+  {
+    "id": "quoine",
+    "name": "Liquid",
+    "volume": 0
+  },
+  {
+    "id": "resfinex",
+    "name": "Resfinex",
+    "volume": 0
+  },
+  {
+    "id": "stake_cube",
+    "name": "StakeCube Exchange",
+    "volume": 0
+  },
+  {
+    "id": "stormgain_futures",
+    "name": "Stormgain Futures",
+    "volume": 0
+  },
+  {
+    "id": "tokenomy",
+    "name": "Tokenomy",
+    "volume": 0
+  },
+  {
+    "id": "tokok",
+    "name": "TOKOK",
+    "volume": 0
+  },
+  {
+    "id": "velic",
+    "name": "Velic",
+    "volume": 0
+  },
+  {
+    "id": "woo_network_futures",
+    "name": "WOO Network (Futures)",
+    "volume": 0
+  },
+  {
+    "id": "yunex",
+    "name": "Yunex.io",
+    "volume": 0
+  },
+  {
+    "id": "zbg_futures",
+    "name": "ZBG Futures",
+    "volume": 0
+  }
+]
